@@ -1,0 +1,6 @@
+--resource
+/home/yasseen/Downloads/Edges/Embedded_Linux_Diploma/Project3/server/gui/build-make/.qt/rcc/qmake_ServerGui.qrc
+--resource
+/home/yasseen/Downloads/Edges/Embedded_Linux_Diploma/Project3/server/gui/build-make/.qt/rcc/server_gui_raw_qml_0.qrc
+/qt/qml/ServerGui/Main.qml
+/qt/qml/ServerGui/Gauge.qml

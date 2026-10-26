@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qt/qml/ServerGui/">
+    <file alias="Main.qml">/home/yasseen/Downloads/Edges/Embedded_Linux_Diploma/Project3/server/gui/Main.qml</file>
+    <file alias="Gauge.qml">/home/yasseen/Downloads/Edges/Embedded_Linux_Diploma/Project3/server/gui/Gauge.qml</file>
+    <file alias="images/Background.jpg">/home/yasseen/Downloads/Edges/Embedded_Linux_Diploma/Project3/server/gui/images/Background.jpg</file>
+    <file alias="images/facebook-app-symbol.png">/home/yasseen/Downloads/Edges/Embedded_Linux_Diploma/Project3/server/gui/images/facebook-app-symbol.png</file>
+    <file alias="images/instagram.png">/home/yasseen/Downloads/Edges/Embedded_Linux_Diploma/Project3/server/gui/images/instagram.png</file>
+    <file alias="images/linkedin.png">/home/yasseen/Downloads/Edges/Embedded_Linux_Diploma/Project3/server/gui/images/linkedin.png</file>
+  </qresource>
+</RCC>
+

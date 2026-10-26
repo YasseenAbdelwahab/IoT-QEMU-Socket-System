@@ -1,0 +1,6 @@
+module ServerGui
+typeinfo server_gui.qmltypes
+prefer :/qt/qml/ServerGui/
+Main 1.0 Main.qml
+Gauge 1.0 Gauge.qml
+

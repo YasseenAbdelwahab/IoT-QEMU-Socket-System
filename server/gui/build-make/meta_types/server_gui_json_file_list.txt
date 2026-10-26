@@ -1,0 +1,2 @@
+/home/yasseen/Downloads/Edges/Embedded_Linux_Diploma/Project3/server/gui/build-make/server_gui_autogen/include/../EWIEGA46WW/moc_Backend.cpp.json
+/home/yasseen/Downloads/Edges/Embedded_Linux_Diploma/Project3/server/gui/build-make/server_gui_autogen/include/../EWIEGA46WW/moc_ServerWorker.cpp.json

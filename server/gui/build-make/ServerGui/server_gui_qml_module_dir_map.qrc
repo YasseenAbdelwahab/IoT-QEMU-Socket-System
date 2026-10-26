@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/ServerGui">/home/yasseen/Downloads/Edges/Embedded_Linux_Diploma/Project3/server/gui/build-make/ServerGui</file>
+
+  </qresource>
+</RCC>

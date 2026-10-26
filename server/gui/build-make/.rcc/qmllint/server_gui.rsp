@@ -1,0 +1,11 @@
+--bare
+-I
+/home/yasseen/Downloads/Edges/Embedded_Linux_Diploma/Project3/server/gui/build-make
+-I
+/home/yasseen/Qt/6.8.3/gcc_64/qml
+--resource
+/home/yasseen/Downloads/Edges/Embedded_Linux_Diploma/Project3/server/gui/build-make/.qt/rcc/qmake_ServerGui.qrc
+--resource
+/home/yasseen/Downloads/Edges/Embedded_Linux_Diploma/Project3/server/gui/build-make/.qt/rcc/server_gui_raw_qml_0.qrc
+/home/yasseen/Downloads/Edges/Embedded_Linux_Diploma/Project3/server/gui/Main.qml
+/home/yasseen/Downloads/Edges/Embedded_Linux_Diploma/Project3/server/gui/Gauge.qml

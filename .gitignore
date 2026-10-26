@@ -1,0 +1,9 @@
+.git/
+**/build/
+**/builds/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/*.o
+**/*.o.d
+**/*.pyc
+__pycache__/
